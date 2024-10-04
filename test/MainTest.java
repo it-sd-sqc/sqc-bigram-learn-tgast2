@@ -61,4 +61,12 @@ class MainTest {
   }
 
   // TODO: Create your test(s) below. /////////////////////////////////////////
+  @Test
+  void addBigram() {
+      assertDoesNotThrow(
+          () -> {
+              
+          }
+      );
+    }
 }
